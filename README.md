@@ -84,7 +84,7 @@ HealthVault serves as a centralized platform catering to three primary user grou
 ## 📱 Screenshots
 
 ### Hospital Dashboard
-![Hospital Dashboard](![image](https://i.imgur.com/eDfJzEf.png))
+![Hospital Dashboard](https://i.imgur.com/eDfJzEf.png)
 - Real-time analytics
 - Resource management
 - Predictive insights
