@@ -90,13 +90,13 @@ HealthVault serves as a centralized platform catering to three primary user grou
 - Predictive insights
 
 ### Doctor Interface
-![Doctor Interface](![image](https://github.com/user-attachments/assets/9cb7711c-bb0c-46b3-82fc-7604814cf27b))
+![Doctor Interface](https://i.imgur.com/Yzlb09e.png)
 - Patient management
 - Clinical decision support
 - Treatment planning
 
 ### Patient Portal
-![Patient Portal](https://github.com/user-attachments/assets/fb5397ab-e5ef-4ced-bed6-c14a879c429e)
+![Patient Portal](https://i.imgur.com/XxX2j8a.png)
 - Health records
 - Personalized insights
 - Community features
