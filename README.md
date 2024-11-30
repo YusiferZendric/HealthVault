@@ -96,7 +96,7 @@ HealthVault serves as a centralized platform catering to three primary user grou
 - Treatment planning
 
 ### Patient Portal
-![Patient Portal](![image](https://github.com/user-attachments/assets/fb5397ab-e5ef-4ced-bed6-c14a879c429e))
+![Patient Portal](https://github.com/user-attachments/assets/fb5397ab-e5ef-4ced-bed6-c14a879c429e)
 - Health records
 - Personalized insights
 - Community features
